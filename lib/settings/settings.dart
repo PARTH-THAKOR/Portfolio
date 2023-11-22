@@ -1,0 +1,2 @@
+// ThemeMode
+bool darkMode = true;
